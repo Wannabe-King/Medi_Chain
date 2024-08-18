@@ -2,7 +2,7 @@
 ## Inspiration
 For decades, medical records are under the ownership of hospitals. It often it takes days to request a hospital to transfer a record, and sometimes impossible to transfer across countries.
 
-When arrived at US for college, Jeffrey tried to transfer records of Covid vaccination from China, but rejected by local hospitals. He had to take two more dozes of Pfizer, suffering days of side effects like fever.
+//When arrived at US for college, Jeffrey tried to transfer records of Covid vaccination from China, but rejected by local hospitals. He had to take two more dozes of Pfizer, suffering days of side effects like fever.
 
 We want to change that. And that’s why we created MedChain - a true ownership of our medical records powered by blockchain technology.
 
