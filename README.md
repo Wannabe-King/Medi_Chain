@@ -1,8 +1,6 @@
 ﻿# Medi_Chain
 ## Inspiration
-For decades, medical records are under the ownership of hospitals. It often it takes days to request a hospital to transfer a record, and sometimes impossible to transfer across countries.
-
-On arrival at Raipur for college, I tried to transfer records of Covid vaccination from Korba, but rejected by local hospitals. He had to take two more dozes of Covishield, suffering days of side effects like fever.
+For decades, medical records are under the ownership of hospitals. It often it takes days to request a hospital to transfer a record, and sometimes impossible to transfer across states/countries.
 
 We want to change that. And that’s why we created MediChain - a true ownership of our medical records powered by blockchain technology.
 
