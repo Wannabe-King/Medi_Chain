@@ -1,8 +1,8 @@
-<h1 align="center">
+<!---<h1 align="center">
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/JeffreytheCoder/med-chain/blob/master/client/src/assets/tealNoBG-cropped.png?raw=true" alt="Markdownify" width="300"></a>
   <br>
-</h1>
+</h1>-->
 
 <h4 align="center">A blockchain-based Electrical Medical Records (EMR) system.</h4>
 
