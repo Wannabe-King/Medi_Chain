@@ -87,17 +87,3 @@ REACT_APP_IPFS_PROJECT_SECRET={YOUR_IPFS_PROJECT_SECRET}
 ```
 
 You should be able to see the application running at http://localhost:3000.
-
-
- 
-
-
-## How we built it
-There are three major components of MediChain:
-
-1. React client (connected with crypto wallet)
-2. Solidity smart contract on Ethereum (ETH) blockchain
-3. Interplanetary file system (IPFS)
-The client first connects with crypto wallet, and use smart contract to mint a patient or doctor block if the public address of the user’s wallet is not registered.
-
-The client can upload a record file to IPFS, which address is linked to a patient block in ETH chain. The client can get all record addressed stored in a patient block from smart contract, and get a record file by its address from IPFS.
