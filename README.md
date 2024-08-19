@@ -12,7 +12,19 @@
   <a href="#how-to-use">How To Use</a> •
   <a href="#support">Support</a>
 </p>-->
+## Inspiration
+For decades, medical records are under the ownership of hospitals. It often it takes days to request a hospital to transfer a record, and sometimes impossible to transfer across states/countries.
 
+We want to change that. And that’s why we created MediChain - a true ownership of our medical records powered by blockchain technology.
+
+## What it does
+MediChain is a blockchain-based electrical medical records (EMR) decentralized application (Dapp).
+
+MediChain is powered by IPFS, where patients’ medical records are stored on the distributed file system, not owned by any centralized entity. A patient can access his or her records by interacting with a smart contract on the Ethereum blockchain, forming a digital identity of the patient on the decentralized network.
+
+A healthcare provider can register using a crypto wallet like Metamask. The healthcare provider can register a patient by using the public address of the patient’s wallet , usually provided during an appointment.
+
+The health provider can search for a patient’s records using the address, and upload a new record for the patient. The patient can also view his or her records, after connected with a wallet which address is registered by the health provider.
 ## Key Features
 
 MedChain is powered by [IPFS](https://ipfs.tech/), where every patient's medical records are stored on the distributed file system, not owned by any centralized entity like hospitals or governments. Each patient has a digital identity on [Ethereum](https://ethereum.org/) blockchain, who and whose doctor can access medical records by interacting with smart contracts. 
@@ -77,30 +89,8 @@ REACT_APP_IPFS_PROJECT_SECRET={YOUR_IPFS_PROJECT_SECRET}
 You should be able to see the application running at http://localhost:3000.
 
 
-## Support
-
-If you like this project, please leave a star ⭐️. This helps more people to know this project.
-
----
-> GitHub [@jeffreythecoder](https://github.com/JeffreytheCoder/JeffreytheCoder) &nbsp;&middot;&nbsp;
-> Twitter [@jeffreyzepengyu](https://twitter.com/jeffreyzepengyu)
-
-
  
- # Medi_Chain
-## Inspiration
-For decades, medical records are under the ownership of hospitals. It often it takes days to request a hospital to transfer a record, and sometimes impossible to transfer across states/countries.
 
-We want to change that. And that’s why we created MediChain - a true ownership of our medical records powered by blockchain technology.
-
-## What it does
-MediChain is a blockchain-based electrical medical records (EMR) decentralized application (Dapp).
-
-MediChain is powered by IPFS, where patients’ medical records are stored on the distributed file system, not owned by any centralized entity. A patient can access his or her records by interacting with a smart contract on the Ethereum blockchain, forming a digital identity of the patient on the decentralized network.
-
-A healthcare provider can register using a crypto wallet like Metamask. The healthcare provider can register a patient by using the public address of the patient’s wallet , usually provided during an appointment.
-
-The health provider can search for a patient’s records using the address, and upload a new record for the patient. The patient can also view his or her records, after connected with a wallet which address is registered by the health provider.
 
 ## How we built it
 There are three major components of MediChain:
