@@ -36,8 +36,6 @@ On MedChain,
 - The health provider can search for a patient’s records using the address, and upload a new record for the patient. 
 - The patient can also view his or her records, after connected with a wallet which address is registered by the health provider.
 
-This project is the 3rd place winner of [NextStep Hacks 2022](https://devpost.com/software/medchain-k4wzry).
-
 ## How It Works
 
 There are three major components of MedChain:
